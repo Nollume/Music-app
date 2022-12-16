@@ -1,0 +1,61 @@
+{
+  "home": {
+    "listen": "Listen to Great Music!",
+    "card_title": "Songs"
+  },
+  "song": {
+    "comment_count": "No comments | 1 comment | {count} comments",
+    "latest" : "Latest",
+    "oldest" : "Oldest",
+    "comments" : "Your comment here..."
+  },
+  "login": {
+    "title": "Your Account",
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "enter_email": "Enter Email",
+    "password": "password",
+    "submit": "Submit"
+  },
+  "register": {
+    "accept": "I accept Music's {0} ",
+    "tos": "Terms of Service",
+    "name": "Name",
+    "enter_name": "Enter name",
+    "age": "Age",
+    "country": "Country",
+    "confirm_password": "Confirm Password",
+    "you_are": "You are",
+    "listener": "Listener",
+    "artist": "Artist",
+    "USA": "USA",
+    "Mexico": "Mexico",
+    "Germany": "Germany",
+    "Antarctica": "Antarctica",
+    "France": "France"
+  },
+  "manage": {
+    "my_songs": "My Songs",
+    "upload": "Upload",
+    "drop_files": "Drop your files here"
+  },
+  "about": {
+    "title": "This is an about page"
+  },
+  "header": {
+    "nav": {
+      "music": "Music",
+      "about": "About",
+      "manage": "Manage",
+      "logout": "Logout",
+      "login_register": "Login / Register"
+    }
+  },
+  "edit": {
+    "genre" : "Genre",
+    "enter_genre" : "Enter Genre",
+    "song_title" : "Song Title",
+    "go_back" : "Go Back"
+  }
+}

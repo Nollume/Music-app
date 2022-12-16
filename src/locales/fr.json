@@ -1,0 +1,61 @@
+{
+  "home": {
+    "listen": "Écoutez de la bonne musique!",
+    "card_title": "Chansons"
+  },
+  "song": {
+    "comment_count": "Sans commentaires | 1 commentaire | {count} commentaires",
+    "latest" : "Dernier",
+    "oldest" : "Le plus ancien",
+    "comments" : "Votre commentaire ici..."
+  },
+  "login": {
+    "title": "Votre compte",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "email": "E-mail",
+    "enter_email" : "Entrez l'e-mail",
+    "password": "le mot de passe",
+    "submit": "Soumettre"
+  },
+  "register": {
+    "accept": "J'accepte les musiques {0} ",
+    "tos": "Conditions d'utilisation",
+    "name": "Nom",
+    "enter_name": "Entrez le nom",
+    "age": "Âge",
+    "country": "Pays",
+    "confirm_password": "Confirmez le mot de passe",
+    "you_are": "Tu es",
+    "listener": "Auditeur",
+    "artist": "Artiste",
+    "USA" : "Etats-Unis",
+    "Mexico": "Mexique",
+    "Germany": "Allemagne",
+    "Antarctica": "Antarctique",
+    "France": "France"
+  },
+  "manage": {
+    "my_songs": "Mes chansons",
+    "upload": "télécharger",
+    "drop_files": "Déposez vos fichiers ici"
+  },
+  "about": {
+    "title": "Ceci est une page à propos"
+  },
+  "header": {
+    "nav": {
+      "music": "Musique",
+      "about": "À propos de",
+      "manage": "Faire en sorte",
+      "logout": "Se déconnecter",
+      "login_register": "S'identifier / S'enregistrer"
+    }
+  },
+  "edit": {
+    "genre" : "Genre",
+    "enter_genre" : "Entrer dans le genre",
+    "song_title" : "Titre de la chanson",
+    "go_back" : "Retourner"
+  }
+}
