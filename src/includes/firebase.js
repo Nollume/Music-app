@@ -9,7 +9,7 @@ import {
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_API_KEY,
+  apiKey: `${import.meta.env.VITE_API_KEY}`,
   authDomain: "music-c128f.firebaseapp.com",
   projectId: "music-c128f",
   storageBucket: "music-c128f.appspot.com",
